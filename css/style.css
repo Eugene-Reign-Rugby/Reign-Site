@@ -8988,7 +8988,7 @@ h1, h2, h3, h4, h5,
     -ms-transform: skewX(-40deg);
     transform: skewX(-40deg);
     -webkit-transform: skewX(-40deg);
-    background: #207dff;
+    background: #000000;
     position: absolute;
     left: 50%;
     top: 0;
@@ -9002,7 +9002,7 @@ h1, h2, h3, h4, h5,
     -ms-transform: skewX(-40deg);
     transform: skewX(-40deg);
     -webkit-transform: skewX(-40deg);
-    background: #00bd56;
+    background: #3db9bb;
     position: absolute;
     right: 50%;
     top: 0;
