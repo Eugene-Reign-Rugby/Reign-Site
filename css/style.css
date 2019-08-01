@@ -8051,7 +8051,7 @@ h1, h2, h3, h4, h5,
         background: #00bd56; } }
     @media (min-width: 1200px) {
       .ftco-navbar-light .container {
-        background: rgba(255, 255, 255, 0.1);
+        background: #3ab3aa;
         position: relative;
         z-index: 0; }
         .ftco-navbar-light .container:after {
