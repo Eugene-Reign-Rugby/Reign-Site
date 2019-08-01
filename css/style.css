@@ -8911,6 +8911,7 @@ h1, h2, h3, h4, h5,
 .team-wrap .img {
   width: 120px;
   height: 120px;
+  
   margin: 0 auto;
   margin-bottom: 10px;
   -webkit-border-radius: 50%;
