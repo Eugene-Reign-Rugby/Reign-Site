@@ -8848,19 +8848,7 @@ h1, h2, h3, h4, h5,
     z-index: 0;
     opacity: .5;
     z-index: -1; }
-  .ftco-team:before {
-    content: '';
-    -ms-transform: skewX(-40deg);
-    transform: skewX(-40deg);
-    -webkit-transform: skewX(-40deg);
-    background: #171b21;
-    position: absolute;
-    right: 50%;
-    top: 0;
-    bottom: 0;
-    left: -1000%;
-    z-index: 0;
-    opacity: .8; }
+  
   @media (max-width: 1199.98px) {
     .ftco-team {
       background-position: center center !important; } }
