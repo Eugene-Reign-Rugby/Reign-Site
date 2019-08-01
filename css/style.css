@@ -8010,10 +8010,10 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #00bd56; }
+  color: #ffffff; }
   a:hover, a:focus {
     text-decoration: none;
-    color: #00bd56;
+    color: #59d6bb;
     outline: none !important; }
 
 h1, h2, h3, h4, h5,
@@ -9224,7 +9224,7 @@ textarea.form-control {
     display: block;
     float: left;
     background: rgba(255, 255, 255, 0.1);
-    background: #00bd56;
+    background: #4fcea7;
     border-radius: 50%;
     position: relative; }
     .ftco-footer-social li a span {
