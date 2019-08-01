@@ -8834,7 +8834,17 @@ h1, h2, h3, h4, h5,
 .ftco-team {
   position: relative;
   z-index: 0;
-  opacity: .8; }
+    content: '';
+    
+    background: #171b21;
+    position: absolute;
+    left: 50%;
+    top: 0;
+    bottom: 0;
+    right: -1000%;
+    z-index: 0;
+    opacity: .5;
+    z-index: -1; }
   
   @media (max-width: 1199.98px) {
     .ftco-team {
