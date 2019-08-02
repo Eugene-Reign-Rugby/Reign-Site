@@ -8054,6 +8054,12 @@ h1, h2, h3, h4, h5,
 
     @media (max-width: 1199.98px) {
       .ftco-navbar-light .container {
+        background: black !important;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+    filter: alpha(opacity=80);
+    -moz-opacity: 0.80;
+    -khtml-opacity: 0.8;
+    opacity: 0.8;
        }
     @media (min-width: 1200px) {
       .ftco-navbar-light .container {
