@@ -8062,7 +8062,7 @@ h1, h2, h3, h4, h5,
           bottom: 0;
           content: '';
           width: 100%;
-          background: rgba(255, 255, 255, 0.1); }
+          background: rgba(0, 0, 0, 0.6); }
         .ftco-navbar-light .container:before {
           position: absolute;
           top: 0;
