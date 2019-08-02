@@ -454,7 +454,9 @@ pre {
   @media (min-width: 992px) {
     .container {
       max-width: 960px; } }
- 
+  @media (min-width: 1500px) {
+    .container {
+      max-width: 3000px; } }
 
 .container-fluid {
   width: 100%;
