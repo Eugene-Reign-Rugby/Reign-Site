@@ -8062,7 +8062,7 @@ h1, h2, h3, h4, h5,
           bottom: 0;
           content: '';
           width: 100%;
-          background: rgba(0, 0, 0, 0.6); }
+          background: rgba(255, 255, 255, 0.1); }
         .ftco-navbar-light .container:before {
           position: absolute;
           top: 0;
@@ -8178,7 +8178,7 @@ h1, h2, h3, h4, h5,
     left: 0;
     top: 0;
     margin-top: -130px;
-    background: #fff !important;
+    background: #0000004d !important;
     -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
     padding: 0; }
