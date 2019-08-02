@@ -8046,7 +8046,7 @@ h1, h2, h3, h4, h5,
     width: 1170px;
     margin: 0 auto;
     padding: 0; }
-    @media (max-width: 1199.98px) {
+    @media (max-width: 100%) {
       .ftco-navbar-light .container {
         background: #3ab3aa; } 
         opacity: }
