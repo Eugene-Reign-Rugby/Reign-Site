@@ -454,7 +454,7 @@ pre {
   @media (min-width: 992px) {
     .container {
       max-width: 960px; } }
-  @media (min-width: 1500px) {
+  @media (min-width: 970px) {
     .container {
       max-width: 3000px; } }
 
