@@ -8027,12 +8027,7 @@ h1, h2, h3, h4, h5,
   max-width: 1200px; }
 
 .ftco-navbar-light {
-  background: black !important;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-    filter: alpha(opacity=80);
-    -moz-opacity: 0.80;
-    -khtml-opacity: 0.8;
-    opacity: 0.8;
+  background: transparent !important;
   position: absolute;
   top: 20px;
   left: 0;
@@ -8041,7 +8036,7 @@ h1, h2, h3, h4, h5,
   padding: 0; }
   @media (max-width: 991.98px) {
     .ftco-navbar-light {
-      
+      background: #000000 !important;
       position: relative;
       top: 0;
       padding-top: 0;
@@ -8051,16 +8046,12 @@ h1, h2, h3, h4, h5,
     width: 1170px;
     margin: 0 auto;
     padding: 0; }
-
     @media (max-width: 1199.98px) {
       .ftco-navbar-light .container {
-        background: black !important;
-        opacity: 0.8;
-       }
+        background: #3ab3aa;}
     @media (min-width: 1200px) {
       .ftco-navbar-light .container {
-        background: black !important;
-    opacity: 0.8;
+        background: #3ab3aa;
         position: relative;
         z-index: 0; }
         .ftco-navbar-light .container:after {
@@ -8113,7 +8104,7 @@ h1, h2, h3, h4, h5,
         padding-left: 0;
         padding-right: 0;
         padding-bottom: 0;
-        color: white; } }
+        color: #000000; } }
   .ftco-navbar-light .navbar-nav > .nav-item .dropdown-menu {
     border: none;
     background: #fff;
@@ -8166,10 +8157,10 @@ h1, h2, h3, h4, h5,
     color: white; }
   @media (max-width: 991.98px) {
     .ftco-navbar-light .navbar-nav > .nav-item.active > a {
-      color: white; } }
+      color: #000; } }
   .ftco-navbar-light .navbar-toggler {
     border: none;
-    color: white !important;
+    color: black !important;
     cursor: pointer;
     padding-right: 1rem;
     text-transform: uppercase;
