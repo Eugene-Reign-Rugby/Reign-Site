@@ -450,13 +450,8 @@ pre {
       max-width: 540px; } }
   @media (min-width: 768px) {
     .container {
-      max-width: 720px; } }
-  @media (min-width: 992px) {
-    .container {
-      max-width: 960px; } }
-  @media (min-width: 970px) {
-    .container {
-      max-width: 3000px; } }
+      max-width: 100%; } }
+ 
 
 .container-fluid {
   width: 100%;
