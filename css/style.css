@@ -8049,7 +8049,7 @@ h1, h2, h3, h4, h5,
     @media (max-width: 100%) {
       .ftco-navbar-light .container {
         background: #3ab3aa; } 
-        opacity: }
+        opacity: 0.3}
     @media (min-width: 1200px) {
       .ftco-navbar-light .container {
         background: #3ab3aa;
