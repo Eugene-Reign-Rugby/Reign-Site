@@ -9654,7 +9654,7 @@ textarea.form-control {
     height: 100px;
     margin: 0 auto;
     margin-bottom: 2em;
-    background: rgba(0, 0, 0, 0.05);
+    background: #60fff8;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
