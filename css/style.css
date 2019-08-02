@@ -8052,7 +8052,7 @@ h1, h2, h3, h4, h5,
         opacity: 60%; }
     @media (min-width: 1200px) {
       .ftco-navbar-light .container {
-        background: #3ab3aa;
+        background: transparent;
         position: relative;
         z-index: 0; }
         .ftco-navbar-light .container:after {
