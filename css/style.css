@@ -8048,8 +8048,8 @@ h1, h2, h3, h4, h5,
     padding: 0; }
     @media (max-width: 1199.98px) {
       .ftco-navbar-light .container {
-        background: black;
-        opacity: 60%; }
+        background: #0b0e10bd;
+      }
     @media (min-width: 1200px) {
       .ftco-navbar-light .container {
         background: transparent;
