@@ -8027,7 +8027,7 @@ h1, h2, h3, h4, h5,
   max-width: 1200px; }
 
 .ftco-navbar-light {
-  background: transparent !important;
+  color: white;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
     filter: alpha(opacity=80);
     -moz-opacity: 0.80;
