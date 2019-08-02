@@ -8051,7 +8051,7 @@ h1, h2, h3, h4, h5,
       .ftco-navbar-light .container {
         background: #ffffff00;
       }
-    @media (min-width: 1200px) {
+    @media (min-width: 2500px) {
       .ftco-navbar-light .container {
         background: transparent;
         position: relative;
@@ -8076,7 +8076,7 @@ h1, h2, h3, h4, h5,
     color: #000000;
     padding-top: 1.5rem;
     padding-bottom: 1.5rem; }
-    @media (max-width: 1199.98px) {
+    @media (max-width: 2500px) {
       .ftco-navbar-light .navbar-brand {
         color: #fff;
         padding-top: 1rem;
@@ -8655,7 +8655,7 @@ h1, h2, h3, h4, h5,
   -moz-box-shadow: 0px -18px 93px -56px rgba(0, 0, 0, 0.59);
   box-shadow: 0px -18px 93px -56px rgba(0, 0, 0, 0.59); }
 
-  @media (min-width: 1500px) {
+  @media (min-width: 2500px) {
     .ftco-highlights .video-wrap {
       margin-top: -8em; } }
 
@@ -8839,7 +8839,7 @@ h1, h2, h3, h4, h5,
   z-index: 0;
   opacity: .9; }
   
-  @media (max-width: 1199.98px) {
+  @media (max-width: 2500px) {
     .ftco-team {
       background-position: center center !important; } }
   .ftco-team .owl-carousel {
@@ -8959,7 +8959,7 @@ h1, h2, h3, h4, h5,
 .ftco-about {
   position: relative;
   z-index: 0; }
-  @media (max-width: 1199.98px) {
+  @media (max-width: 2500px) {
     .ftco-about {
       background-position: center center !important; } }
   .ftco-about:after {
@@ -8997,7 +8997,7 @@ h1, h2, h3, h4, h5,
     -moz-box-shadow: -25px -25px 41px -38px rgba(0, 0, 0, 0.59);
     -webkit-box-shadow: -25px -25px 41px -38px rgba(0, 0, 0, 0.59);
     box-shadow: -25px -25px 41px -38px rgba(0, 0, 0, 0.59); }
-    @media (min-width: 1200px) {
+    @media (min-width: 2500px) {
       .ftco-about .img {
         margin: -30px 0; } }
 
@@ -9064,7 +9064,7 @@ textarea.form-control {
 
 .ftco-vh-100 {
   height: 100vh; }
-  @media (max-width: 1199.98px) {
+  @media (max-width: 2500px) {
     .ftco-vh-100 {
       height: inherit;
       padding-top: 5em;
@@ -9485,7 +9485,7 @@ textarea.form-control {
   position: relative;
   z-index: 0; }
 
-@media (max-width: 1199.98px) {
+@media (max-width: 2500px) {
   .ftco-counter {
     background-position: center center !important; } }
 
