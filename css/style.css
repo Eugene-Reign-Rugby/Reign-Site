@@ -8225,7 +8225,7 @@ h1, h2, h3, h4, h5,
     .ftco-navbar-light.scrolled .nav-link {
       padding-top: 1rem !important;
       padding-bottom: 1rem !important;
-      color: #000000 !important; }
+      color: white !important; }
       .ftco-navbar-light.scrolled .nav-link.active {
         color: #00bd56 !important; }
     .ftco-navbar-light.scrolled.awake {
