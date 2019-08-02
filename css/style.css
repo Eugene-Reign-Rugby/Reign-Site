@@ -8024,7 +8024,7 @@ h1, h2, h3, h4, h5,
   font-family: "Oswald", Arial, sans-serif; }
 
 .container {
-  max-width: 100%; }
+  max-width: 1200px; }
 
 .ftco-navbar-light {
   background: transparent !important;
