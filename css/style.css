@@ -1567,7 +1567,7 @@ pre {
     .table-responsive-lg > .table-bordered {
       border: 0; } }
 
-@media (max-width: 1199.98px) {
+@media (max-width: 2500px) {
   .table-responsive-xl {
     display: block;
     width: 100%;
@@ -2574,7 +2574,7 @@ input[type="button"].btn-block {
     right: 0;
     left: auto; } }
 
-@media (min-width: 1200px) {
+@media (min-width: 2500px) {
   .dropdown-menu-xl-right {
     right: 0;
     left: auto; } }
@@ -2598,7 +2598,7 @@ input[type="button"].btn-block {
     right: auto;
     left: 0; } }
 
-@media (min-width: 1200px) {
+@media (min-width: 2500px) {
   .dropdown-menu-xl-left {
     right: auto;
     left: 0; } }
@@ -3643,13 +3643,13 @@ input[type="button"].btn-block {
     .navbar-expand-lg .navbar-toggler {
       display: none; } }
 
-@media (max-width: 1199.98px) {
+@media (max-width: 2500px) {
   .navbar-expand-xl > .container,
   .navbar-expand-xl > .container-fluid {
     padding-right: 0;
     padding-left: 0; } }
 
-@media (min-width: 1200px) {
+@media (min-width: 2500px) {
   .navbar-expand-xl {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -4742,7 +4742,7 @@ a.close.disabled {
 
 @media (min-width: 1200px) {
   .modal-xl {
-    max-width: 1140px; } }
+    max-width: 2500px; } }
 
 .tooltip {
   position: absolute;
@@ -5494,7 +5494,7 @@ button.bg-dark:focus {
     display: -ms-inline-flexbox !important;
     display: inline-flex !important; } }
 
-@media (min-width: 1200px) {
+@media (min-width: 2500px) {
   .d-xl-none {
     display: none !important; }
   .d-xl-inline {
@@ -6116,7 +6116,7 @@ button.bg-dark:focus {
     -ms-grid-row-align: stretch !important;
     align-self: stretch !important; } }
 
-@media (min-width: 1200px) {
+@media (min-width: 2500px) {
   .flex-xl-row {
     -webkit-box-orient: horizontal !important;
     -webkit-box-direction: normal !important;
@@ -6276,7 +6276,7 @@ button.bg-dark:focus {
   .float-lg-none {
     float: none !important; } }
 
-@media (min-width: 1200px) {
+@media (min-width: 2500px) {
   .float-xl-left {
     float: left !important; }
   .float-xl-right {
@@ -7513,7 +7513,7 @@ button.bg-dark:focus {
   .mx-lg-auto {
     margin-left: auto !important; } }
 
-@media (min-width: 1200px) {
+@media (min-width: 2500px) {
   .m-xl-0 {
     margin: 0 !important; }
   .mt-xl-0,
@@ -7818,7 +7818,7 @@ button.bg-dark:focus {
   .text-lg-center {
     text-align: center !important; } }
 
-@media (min-width: 1200px) {
+@media (min-width: 2500px) {
   .text-xl-left {
     text-align: left !important; }
   .text-xl-right {
