@@ -8003,7 +8003,7 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #ffffff; }
+  color: #59d6bb; }
   a:hover, a:focus {
     text-decoration: none;
     color: #59d6bb;
@@ -9309,7 +9309,7 @@ textarea.form-control {
 
 .heading-section.heading-section-white h2 {
   font-size: 50px;
-  color: #fff; }
+  color: #59d6bb; }
   .heading-section.heading-section-white h2 span {
     color: #ffffff;
     text-shadow: 2px 2px 8px #000; }
