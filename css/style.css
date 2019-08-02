@@ -454,9 +454,7 @@ pre {
   @media (min-width: 992px) {
     .container {
       max-width: 960px; } }
-  @media (min-width: 1200px) {
-    .container {
-      max-width: 1140px; } }
+ 
 
 .container-fluid {
   width: 100%;
@@ -9306,6 +9304,7 @@ textarea.form-control {
   .heading-section h2 span {
     font-weight: 700;
     color: #00bd56; }
+
   @media (max-width: 767.98px) {
     .heading-section h2 {
       font-size: 28px; } }
@@ -9353,6 +9352,7 @@ textarea.form-control {
     left: 0;
     right: 0;
     margin: 0 auto; }
+
     @media (max-width: 991.98px) {
       .testimony-section .owl-nav {
         display: none; } }
@@ -9376,6 +9376,7 @@ textarea.form-control {
     .testimony-section .owl-nav .owl-prev {
       top: 0 !important;
       right: 0 !important; }
+
       @media (min-width: 992px) {
         .testimony-section .owl-nav .owl-prev {
           right: 61px !important; } }
@@ -9389,6 +9390,7 @@ textarea.form-control {
     .testimony-section .owl-nav .owl-next {
       top: 0 !important;
       right: 0 !important; }
+
       @media (min-width: 992px) {
         .testimony-section .owl-nav .owl-next {
           right: 0 !important; } }
