@@ -8049,7 +8049,6 @@ h1, h2, h3, h4, h5,
     @media (max-width: 1199.98px) {
       .ftco-navbar-light .container {
         background: #0b0e10bd;
-        opacity: 1;
       }
     @media (min-width: 1200px) {
       .ftco-navbar-light .container {
@@ -8179,7 +8178,7 @@ h1, h2, h3, h4, h5,
     left: 0;
     top: 0;
     margin-top: -130px;
-    background: #fffefe05 !important;
+    background: #0000004d !important;
     -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
     padding: 0; }
