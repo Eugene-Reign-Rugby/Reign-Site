@@ -8635,9 +8635,9 @@ h1, h2, h3, h4, h5,
       font-size: 60px;
       line-height: 1; }
       .scoreboard .sport-team .score.win span {
-        color: #000000; }
+        color: #ffffff; }
       .scoreboard .sport-team .score.lost span {
-        color: rgba(0, 0, 0, 0.4); }
+        color: rgba(255, 255, 255, 0.4); }
     .scoreboard .sport-team .team-name {
       font-size: 24px;
       font-weight: 700;
